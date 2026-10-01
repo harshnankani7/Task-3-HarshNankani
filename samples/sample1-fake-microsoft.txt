@@ -1,0 +1,13 @@
+From: Microsoft Support <support@logins-updates.com>
+Return-Path: <bounce@mailer77.logins-updates.com>
+Subject: FW: Urgent: Your Account Security Alert
+Attachment: Security_Update_2024.iso
+
+Dear User,
+
+Unusual sign-in activity was detected on your account. Your account will be
+locked in 30 minutes unless you verify now.
+
+Click here: http://microsoft.account-verify.logins-updates.com/signin
+
+Microsoft Security Team

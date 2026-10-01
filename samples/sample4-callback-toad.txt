@@ -1,0 +1,8 @@
+From: Billing <billing@msft-renewals.net>
+Subject: Microsoft Subscription Renewal - Payment Overdue
+
+Invoice #483920
+Description: Microsoft 365 Annual Renewal
+Amount charged: $190.00
+
+PAYMENT OVERDUE: Call 1-800-XXX-XXXX to cancel IMMEDIATELY.
